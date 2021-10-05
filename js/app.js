@@ -39,4 +39,12 @@ if (num1>num2 && num1>num3) {
 }
 */
 
-//8
+//8 Numero divisible entre 2
+
+if (num1%2 == 0) {
+  alert("El numero es divisible entre 2 o par")
+}  else{
+  alert("El numero no divisible entre 2 o inpar")
+}
+
+//9 
